@@ -25,10 +25,32 @@ Anyone can **fork this repo**, generate the problem structure, and start solving
 ```bash
 git clone https://github.com/<your-username>/codeforces-cp31.git
 cd codeforces-cp31
-
+```
 ### 2. Generate all folders + files
 ```bash
 python3 generate_cp31_files.py
+```
+This will create:
+```bash
+800/
+900/
+1000/
+...
+1900/
+```
+Each containing:
+```bash 
+01_problem-name.cpp
+02_problem-name.cpp
+...
+31_problem-name.cpp
+```
+### 3. Start solving problems
+Open any file:
+```bash
+code 1200/05_plus-minus-permutation.cpp
+```
+write code -> compile -> run
 
 ##🤝 Contributing
 
