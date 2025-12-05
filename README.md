@@ -50,18 +50,18 @@ Open any file:
 ```bash
 code 1200/05_plus-minus-permutation.cpp
 ```
-write code -> compile -> run
+Write Code -> Compile -> Run
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome!
 If you'd like to add improvements (automation, scripts, docs), feel free to fork and submit a PR.
 
 ---
 
-##⭐ Credits
+## ⭐ Credits
 
 Made for CP31 – TLE Eliminators practice.
 Designed to help anyone study Codeforces problems in a structured, efficient way.
